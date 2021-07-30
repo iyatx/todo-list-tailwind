@@ -1,0 +1,12 @@
+.item {
+  position: relative;
+}
+
+.item__btn {
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+  color: white;
+  outline: none;
+}
